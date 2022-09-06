@@ -1,16 +1,6 @@
-# storytel_ui_example
+Bu repo Techcareer Flutter Bootcamp sürecinde verilen Storytel page clone u için oluşturulmuştur. 
 
-A new Flutter project.
+# Storytel UI Example
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![storytel](https://user-images.githubusercontent.com/17355685/188629049-c72396d3-3fe5-4854-8193-220b3d0642f4.jpg)
