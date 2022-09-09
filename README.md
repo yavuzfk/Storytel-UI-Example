@@ -2,6 +2,7 @@ Bu repo Techcareer Flutter Bootcamp sürecinde verilen Storytel page clone u iç
 
 # Storytel UI Example
 
-![Screenshot_20220909_181153](https://user-images.githubusercontent.com/17355685/189383711-6eab8f28-9d26-468f-89d3-e4f7f8c18f0c.png)
+![Screenshot_20220909_181153](https://user-images.githubusercontent.com/17355685/189384916-74605a54-d975-40b7-a70c-2e1750b2a258.png)
+
 
 
